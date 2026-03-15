@@ -1,0 +1,31 @@
+.navbar {
+    text-align: center;
+    background-color: #96C0BD;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{background-color: #607877;}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Piazza1{
+    text-align: center;
+    color: #ffffff;
+}
+*{text-decoration: none;} 
+.bottone{
+    color: #AC1D1D;
+}
+.Piazza2{
+    text-align: center;
+    color: #ffffff;
+}
+.Piazza3{
+    text-align: center;
+    color: #ffffff;
+}
+.Piazza4{
+    text-align: center;
+    color: #ffffff;
+}
